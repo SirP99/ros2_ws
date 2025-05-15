@@ -1,0 +1,24 @@
+[1.200s] Invoking command in '/home/ordog/ros2_ws/bme_ros2_tutorials_py': PYTHONPATH=/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/bme_ros2_tutorials_py build --build-base /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data
+[1.342s] /home/ordog/.virtualenvs/tf/lib/python3.12/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.342s]   warnings.warn(msg)
+[1.446s] running egg_info
+[1.467s] writing ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/PKG-INFO
+[1.468s] writing dependency_links to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/dependency_links.txt
+[1.468s] writing requirements to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/requires.txt
+[1.468s] writing top-level names to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/top_level.txt
+[1.502s] reading manifest file '../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.503s] writing manifest file '../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.503s] running build
+[1.503s] running build_py
+[1.503s] copying bme_ros2_tutorials_py/__init__.py -> /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/build/lib/bme_ros2_tutorials_py
+[1.504s] running install
+[1.507s] running install_lib
+[1.524s] running install_data
+[1.524s] copying resource/bme_ros2_tutorials_py -> /home/ordog/ros2_ws/install/bme_ros2_tutorials_py/share/ament_index/resource_index/packages
+[1.525s] copying package.xml -> /home/ordog/ros2_ws/install/bme_ros2_tutorials_py/share/bme_ros2_tutorials_py
+[1.525s] running install_egg_info
+[1.542s] removing '/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info' (and everything under it)
+[1.542s] Copying ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info to /home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info
+[1.543s] running install_scripts
+[1.629s] writing list of installed files to '/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log'
+[1.651s] Invoked command in '/home/ordog/ros2_ws/bme_ros2_tutorials_py' returned '0': PYTHONPATH=/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/bme_ros2_tutorials_py build --build-base /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data

@@ -1,0 +1,67 @@
+[0.052s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_bringup -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_bringup
+[0.154s] -- The C compiler identification is GNU 13.3.0
+[0.507s] -- The CXX compiler identification is GNU 13.3.0
+[0.787s] -- Detecting C compiler ABI info
+[0.953s] -- Detecting C compiler ABI info - done
+[0.962s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.962s] -- Detecting C compile features
+[0.963s] -- Detecting C compile features - done
+[1.005s] -- Detecting CXX compiler ABI info
+[1.192s] -- Detecting CXX compiler ABI info - done
+[1.201s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.202s] -- Detecting CXX compile features
+[1.202s] -- Detecting CXX compile features - done
+[1.206s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.379s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.613s] -- Configuring done (1.6s)
+[1.616s] -- Generating done (0.0s)
+[1.618s] -- Build files have been written to: /home/ordog/ros2_ws/build/turtlebot3_bringup
+[1.623s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_bringup -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_bringup
+[1.624s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_bringup -- -j20 -l20
+[1.661s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_bringup -- -j20 -l20
+[1.662s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_bringup
+[1.669s] -- Install configuration: ""
+[1.670s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch
+[1.671s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/hardware.launch.py
+[1.671s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/fake.launch.py
+[1.672s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/base.launch.py
+[1.672s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/gazebo.launch.py
+[1.673s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config
+[1.673s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/waffle_pi
+[1.674s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/waffle_pi/gazebo_controller_manager.yaml
+[1.674s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/waffle_pi/hardware_controller_manager.yaml
+[1.675s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/burger
+[1.675s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/burger/gazebo_controller_manager.yaml
+[1.676s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/config/burger/hardware_controller_manager.yaml
+[1.676s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script
+[1.676s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/create_udev_rules
+[1.677s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/99-turtlebot3-cdc.rules
+[1.677s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds
+[1.678s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world.model
+[1.678s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world
+[1.679s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/meshes
+[1.679s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/meshes/wall.dae
+[1.680s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/meshes/hexagon.dae
+[1.680s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/model.config
+[1.681s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/model-1_4.sdf
+[1.681s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/turtlebot3_world/model.sdf
+[1.681s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/worlds/empty_world.model
+[1.682s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/rviz
+[1.683s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/rviz/turtlebot3.rviz
+[1.683s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/turtlebot3_bringup.dsv
+[1.684s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/package_run_dependencies/turtlebot3_bringup
+[1.684s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/parent_prefix_path/turtlebot3_bringup
+[1.685s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.sh
+[1.685s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.dsv
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.sh
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.dsv
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.bash
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.sh
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.zsh
+[1.686s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.dsv
+[1.687s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.dsv
+[1.687s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/packages/turtlebot3_bringup
+[1.688s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[1.688s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[1.688s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[1.689s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ordog/ros2_ws/install/turtlebot3_description:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/ordog/ros2_ws/install:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_bringup

@@ -1,0 +1,77 @@
+[0.045s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_hardware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_hardware -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_hardware
+[0.550s] -- The C compiler identification is GNU 13.3.0
+[0.894s] -- The CXX compiler identification is GNU 13.3.0
+[1.217s] -- Detecting C compiler ABI info
+[1.457s] -- Detecting C compiler ABI info - done
+[1.467s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.468s] -- Detecting C compile features
+[1.468s] -- Detecting C compile features - done
+[1.529s] -- Detecting CXX compiler ABI info
+[1.763s] -- Detecting CXX compiler ABI info - done
+[1.775s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.775s] -- Detecting CXX compile features
+[1.776s] -- Detecting CXX compile features - done
+[1.782s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.980s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.131s] -- Found dynamixel_sdk: 3.8.3 (/opt/ros/jazzy/share/dynamixel_sdk/cmake)
+[2.138s] -- Found hardware_interface: 4.28.1 (/opt/ros/jazzy/share/hardware_interface/cmake)
+[2.342s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.365s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.397s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.429s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.754s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.815s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.819s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.848s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.898s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.901s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[2.992s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.996s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.005s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[3.055s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.560s] -- Configuring done (3.5s)
+[3.597s] -- Generating done (0.0s)
+[3.602s] -- Build files have been written to: /home/ordog/ros2_ws/build/turtlebot3_hardware
+[3.615s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_hardware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_hardware -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_hardware
+[3.617s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_hardware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_hardware -- -j20 -l20
+[3.666s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_hardware.dir/src/turtlebot3_system.cpp.o[0m
+[3.667s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_hardware.dir/src/opencr.cpp.o[0m
+[3.667s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlebot3_hardware.dir/src/dynamixel_sdk_wrapper.cpp.o[0m
+[10.198s] [100%] [32m[1mLinking CXX shared library libturtlebot3_hardware.so[0m
+[10.581s] [100%] Built target turtlebot3_hardware
+[10.592s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_hardware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_hardware -- -j20 -l20
+[10.594s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_hardware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_hardware
+[10.602s] -- Install configuration: ""
+[10.603s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/turtlebot3_hardware.xml
+[10.604s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include
+[10.604s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/visibility_control.h
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/turtlebot3_system.hpp
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/opencr.hpp
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/opencr_control_table.hpp
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/opencr_definitions.hpp
+[10.605s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/include/turtlebot3_hardware/dynamixel_sdk_wrapper.hpp
+[10.606s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/lib/libturtlebot3_hardware.so
+[10.607s] -- Set non-toolchain portion of runtime path of "/home/ordog/ros2_ws/install/turtlebot3_hardware/lib/libturtlebot3_hardware.so" to ""
+[10.607s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/library_path.sh
+[10.607s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/library_path.dsv
+[10.607s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/ament_index/resource_index/package_run_dependencies/turtlebot3_hardware
+[10.608s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/ament_index/resource_index/parent_prefix_path/turtlebot3_hardware
+[10.608s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/ament_prefix_path.sh
+[10.608s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/ament_prefix_path.dsv
+[10.608s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/path.sh
+[10.609s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/environment/path.dsv
+[10.609s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/local_setup.bash
+[10.609s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/local_setup.sh
+[10.609s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/local_setup.zsh
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/local_setup.dsv
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/package.dsv
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/ament_index/resource_index/packages/turtlebot3_hardware
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/turtlebot3_hardware
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/cmake/ament_cmake_export_libraries-extras.cmake
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.610s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/cmake/turtlebot3_hardwareConfig.cmake
+[10.611s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/cmake/turtlebot3_hardwareConfig-version.cmake
+[10.611s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_hardware/share/turtlebot3_hardware/package.xml
+[10.612s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_hardware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_hardware

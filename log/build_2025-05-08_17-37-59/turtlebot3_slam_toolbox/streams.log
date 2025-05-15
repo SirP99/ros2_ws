@@ -1,0 +1,45 @@
+[0.519s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_slam_toolbox
+[0.641s] -- The C compiler identification is GNU 13.3.0
+[1.127s] -- The CXX compiler identification is GNU 13.3.0
+[1.599s] -- Detecting C compiler ABI info
+[1.798s] -- Detecting C compiler ABI info - done
+[1.809s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.810s] -- Detecting C compile features
+[1.810s] -- Detecting C compile features - done
+[1.868s] -- Detecting CXX compiler ABI info
+[2.109s] -- Detecting CXX compiler ABI info - done
+[2.119s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.119s] -- Detecting CXX compile features
+[2.120s] -- Detecting CXX compile features - done
+[2.124s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.305s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.528s] -- Configuring done (2.0s)
+[2.531s] -- Generating done (0.0s)
+[2.533s] -- Build files have been written to: /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox
+[2.538s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ordog/ros2_ws/src/turtlebot3/turtlebot3_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/ordog/ros2_ws/install/turtlebot3_slam_toolbox
+[2.540s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox -- -j20 -l20
+[2.577s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox -- -j20 -l20
+[2.578s] Invoking command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox
+[2.585s] -- Install configuration: ""
+[2.586s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config
+[2.586s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config/slam_toolbox_mapping.yaml
+[2.587s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch
+[2.587s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch/slam_toolbox.launch.py
+[2.587s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz
+[2.588s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz/slam_toolbox.rviz
+[2.589s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot3_slam_toolbox
+[2.589s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot3_slam_toolbox
+[2.589s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.sh
+[2.590s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.dsv
+[2.590s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.sh
+[2.590s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.dsv
+[2.590s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.bash
+[2.590s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.sh
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.zsh
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.dsv
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.dsv
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/packages/turtlebot3_slam_toolbox
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig.cmake
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig-version.cmake
+[2.591s] -- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.xml
+[2.593s] Invoked command in '/home/ordog/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox

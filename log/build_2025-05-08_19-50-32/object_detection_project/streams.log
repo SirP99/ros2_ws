@@ -1,0 +1,26 @@
+[0.557s] Invoking command in '/home/ordog/ros2_ws/build/object_detection_project': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ordog/ros2_ws/install/turtlebot3_teleop:/home/ordog/ros2_ws/install/turtlebot3_example:/home/ordog/ros2_ws/install/object_detection_py:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/ordog/ros2_ws/build/object_detection_project -- -j20 -l20
+[0.977s] Invoked command in '/home/ordog/ros2_ws/build/object_detection_project' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ordog/ros2_ws/install/turtlebot3_teleop:/home/ordog/ros2_ws/install/turtlebot3_example:/home/ordog/ros2_ws/install/object_detection_py:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/ordog/ros2_ws/build/object_detection_project -- -j20 -l20
+[0.996s] Invoking command in '/home/ordog/ros2_ws/build/object_detection_project': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ordog/ros2_ws/install/turtlebot3_teleop:/home/ordog/ros2_ws/install/turtlebot3_example:/home/ordog/ros2_ws/install/object_detection_py:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/ordog/ros2_ws/build/object_detection_project
+[1.007s] -- Install configuration: ""
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/launch
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/launch/world.launch.py
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/launch/turtlebot3_world.launch.py
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/worlds
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/worlds/world.sdf
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/worlds/empty.sdf
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/ament_index/resource_index/package_run_dependencies/object_detection_project
+[1.008s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/ament_index/resource_index/parent_prefix_path/object_detection_project
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/environment/ament_prefix_path.sh
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/environment/ament_prefix_path.dsv
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/environment/path.sh
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/environment/path.dsv
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/local_setup.bash
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/local_setup.sh
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/local_setup.zsh
+[1.009s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/local_setup.dsv
+[1.009s] -- Installing: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/package.dsv
+[1.010s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/ament_index/resource_index/packages/object_detection_project
+[1.010s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/cmake/object_detection_projectConfig.cmake
+[1.010s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/cmake/object_detection_projectConfig-version.cmake
+[1.010s] -- Up-to-date: /home/ordog/ros2_ws/install/object_detection_project/share/object_detection_project/package.xml
+[1.103s] Invoked command in '/home/ordog/ros2_ws/build/object_detection_project' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ordog/ros2_ws/install/turtlebot3_teleop:/home/ordog/ros2_ws/install/turtlebot3_example:/home/ordog/ros2_ws/install/object_detection_py:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/ordog/ros2_ws/build/object_detection_project

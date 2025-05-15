@@ -1,0 +1,19 @@
+[1.161s] Invoking command in '/home/ordog/ros2_ws/bme_ros2_tutorials_py': PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/bme_ros2_tutorials_py build --build-base /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data
+[1.368s] running egg_info
+[1.386s] writing ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/PKG-INFO
+[1.386s] writing dependency_links to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/dependency_links.txt
+[1.386s] writing requirements to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/requires.txt
+[1.387s] writing top-level names to ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/top_level.txt
+[1.416s] reading manifest file '../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.417s] writing manifest file '../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.417s] running build
+[1.417s] running build_py
+[1.417s] running install
+[1.422s] running install_lib
+[1.436s] running install_data
+[1.436s] running install_egg_info
+[1.451s] removing '/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info' (and everything under it)
+[1.452s] Copying ../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info to /home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info
+[1.452s] running install_scripts
+[1.549s] writing list of installed files to '/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log'
+[1.576s] Invoked command in '/home/ordog/ros2_ws/bme_ros2_tutorials_py' returned '0': PS1=(tf) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/ordog/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ordog/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/bme_ros2_tutorials_py build --build-base /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/ordog/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data

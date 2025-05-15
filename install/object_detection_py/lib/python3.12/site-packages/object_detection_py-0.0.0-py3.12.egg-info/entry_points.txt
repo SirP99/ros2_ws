@@ -1,0 +1,5 @@
+[console_scripts]
+object_detection_node = object_detection_py.object_detection_node:main
+object_detection_node_v2 = object_detection_py.object_detection_node_v2:main
+object_detection_node_v3 = object_detection_py.object_detection_node_v3:main
+save_training_images = object_detection_py.save_training_images:main

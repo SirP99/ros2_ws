@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "turtlebot3_msgs/action/Patrol_Feedback",
+      "fields": [
+        {
+          "name": "left_time",
+          "type": {
+            "type_id": 10,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "turtlebot3_msgs/action/Patrol_Feedback",
+      "hash_string": "RIHS01_a059586543edf9cf6a9e932327a8dc91536af57c066918bf299734168a0f0220"
+    }
+  ]
+}

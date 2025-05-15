@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ordog/ros2_ws/build/turtlebot3_slam_toolbox
+-- Install configuration: ""
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config/slam_toolbox_mapping.yaml
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch/slam_toolbox.launch.py
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz/slam_toolbox.rviz
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot3_slam_toolbox
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot3_slam_toolbox
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.sh
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.dsv
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.sh
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.dsv
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.bash
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.sh
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.zsh
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.dsv
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.dsv
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/packages/turtlebot3_slam_toolbox
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig.cmake
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig-version.cmake
+-- Installing: /home/ordog/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.xml

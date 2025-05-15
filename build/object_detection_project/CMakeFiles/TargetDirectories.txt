@@ -1,0 +1,9 @@
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/uninstall.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/object_detection_project_uninstall.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/test.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/edit_cache.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/rebuild_cache.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/list_install_components.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/install.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/install/local.dir
+/home/ordog/ros2_ws/build/object_detection_project/CMakeFiles/install/strip.dir
