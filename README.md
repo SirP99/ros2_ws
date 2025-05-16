@@ -1,8 +1,14 @@
 
 # Objektumfelismerés Gazebo szimulációban
 
+
+[//]: # (Image References)
+
+[image1]: ./assets/running.jpg "Project in running"
+
 ## Tartalomjegyzék
 
+- [A projektben részt vevő személyek](#a_projektben_részt_vevő_személyek)
 - [Leírás](#leírás)
 - [Követelmények](#követelmények)
 - [A kód működése](#a-kód-működése)
@@ -18,6 +24,13 @@
   - [Objektum detektálás indítása](#objektum-detektálás-indítása)
 - [Összefoglalás](#összefoglalás)
 
+## A projektben részt vevő személyek
+
+Prónai Sára Tímea - FCNR1H
+Gyaraki Dániel - S4HGT8
+Kazai Kornél  - BW5LTQ
+Kőrösi Katinka Flóra - G3I5MM
+Ördög Viktor Roland - G6RQSH
 
 ## Leírás
 
@@ -155,6 +168,7 @@ colcon build
 source install/setup.bash
 ```
 
+
 ### Szimuláció indítása
 
 ```bash
@@ -162,6 +176,7 @@ ros2 launch object_detection_project turtlebot3_world.launch.py
 ```
 
 Ez elindítja a világot a robottal.
+![alt text][image1]
 
 ### Robot mozgatása
 
