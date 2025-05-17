@@ -5,10 +5,15 @@
 [//]: # (Image References)
 
 [image1]: ./assets/running.jpg "Project in running"
+[image2]: ./assets/gazebo1.png "Gazebo world"
+[image3]: ./assets/gazebo2.png "Gazebo world"
+[image4]: ./assets/gazebo3.png "Gazebo world"
+
+
 
 ## Tartalomjegyzék
 
-- [A projektben részt vevő személyek](#a_projektben_részt_vevő_személyek)
+- [A projektben részt vevő személyek](#a-projektben-részt-vevő-személyek)
 - [Leírás](#leírás)
 - [Követelmények](#követelmények)
 - [A kód működése](#a-kód-működése)
@@ -27,10 +32,16 @@
 ## A projektben részt vevő személyek
 
 Prónai Sára Tímea - FCNR1H
+
 Gyaraki Dániel - S4HGT8
+
 Kazai Kornél  - BW5LTQ
+
 Kőrösi Katinka Flóra - G3I5MM
+
 Ördög Viktor Roland - G6RQSH
+
+Bemutató Youtube videó linkje: [https://youtu.be/uS6Mc0WgeLM](https://youtu.be/uS6Mc0WgeLM)
 
 ## Leírás
 
@@ -176,8 +187,9 @@ ros2 launch object_detection_project turtlebot3_world.launch.py
 ```
 
 Ez elindítja a világot a robottal.
-![alt text][image1]
 
+![alt text][image2]
+![alt text][image3]
 ### Robot mozgatása
 
 Egy másik terminálban:
@@ -185,6 +197,7 @@ Egy másik terminálban:
 ```bash
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
+![alt text][image4]
 
 ### Objektum detektálás indítása
 
@@ -193,7 +206,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```bash
 ros2 run object_detection_py object_detection_node
 ```
-
+![alt text][image1]
 ---
 
 ## Összefoglalás
