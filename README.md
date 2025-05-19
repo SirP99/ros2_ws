@@ -43,6 +43,20 @@ Kőrösi Katinka Flóra - G3I5MM
 
 Bemutató Youtube videó linkje: [https://youtu.be/uS6Mc0WgeLM](https://youtu.be/uS6Mc0WgeLM)
 
+A Turtlebot 3 honlapja: [https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+
+A használt Tanszéki turtlebot repok:
+
+[https://github.com/MOGI-ROS/turtlebot3](https://github.com/MOGI-ROS/turtlebot3)
+
+[https://github.com/MOGI-ROS/turtlebot3_simulations](https://github.com/MOGI-ROS/turtlebot3_simulations)
+
+[https://github.com/MOGI-ROS/turtlebot3_msgs](https://github.com/MOGI-ROS/turtlebot3_msgs)
+
+Yolo:
+
+[https://github.com/ultralytics/ultralytics/tree/main](https://github.com/ultralytics/ultralytics/tree/main)
+
 ## Leírás
 
 Építettünk egy Gazebo világot, amelyben teszteljük az objektumfelismerést. Az alapvető Gazebo modelleket kiegészítettük továbbiakkal, hogy változatosabb legyen a környezet.
